@@ -1,1 +1,0 @@
-# Tomato-Pest-Detection-using-CNN-Algorithm
